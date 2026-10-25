@@ -1,0 +1,2 @@
+Optionnel : sound-start.wav, sound-card.wav, sound-turn.wav, bgm.mp3
+(+ win.wav, lose.wav, flip.wav). Les sons absents sont remplaces par des sons synthetises.

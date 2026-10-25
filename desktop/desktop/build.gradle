@@ -1,0 +1,35 @@
+// Projet PC indépendant : ne touche pas au projet Android (app/).
+// Il compile directement le moteur (Card, Owner, Rules, GameEngine, AiPlayer) depuis app/src/main/java.
+plugins { id 'application' }
+
+repositories { mavenCentral() }
+
+dependencies {
+    // Lecture des images .webp dans Swing (facultatif : sans ça, les cartes s'affichent sans image)
+    implementation 'org.sejda.imageio:webp-imageio:0.1.6'
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['../app/src/main/java', 'src/main/java']
+            include 'com/tripletriad/Card.java',
+                    'com/tripletriad/Owner.java',
+                    'com/tripletriad/Rules.java',
+                    'com/tripletriad/GameEngine.java',
+                    'com/tripletriad/AiPlayer.java',
+                    'com/tripletriad/desktop/**'
+        }
+    }
+}
+
+application {
+    mainClass = 'com.tripletriad.desktop.Main'
+}
+
+tasks.withType(JavaCompile) { options.encoding = 'UTF-8' }
+
+run {
+    // dossier des assets (cards.json + Img/) : on réutilise celui de l'appli Android
+    args = ['../app/src/main/assets']
+}

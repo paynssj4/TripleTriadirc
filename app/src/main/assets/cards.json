@@ -1,0 +1,662 @@
+[
+  {
+    "name": "001",
+    "attribute": "Fire",
+    "image": "Img/001.png",
+    "numbers": [ 1, 4, 1, 5 ]
+  },
+  {
+    "name": "002",
+    "attribute": "Ice",
+    "image": "Img/002.png",
+    "numbers": [ 5, 1, 1, 3 ]
+  },
+  {
+    "name": "003",
+    "attribute": "Lightning",
+    "image": "Img/003.png",
+    "numbers": [ 1, 3, 3, 5 ]
+  },
+  {
+    "name": "004",
+    "attribute": "Water",
+    "image": "Img/004.png",
+    "numbers": [ 6, 1, 1, 2 ]
+  },
+  {
+    "name": "005",
+    "attribute": "Darkness",
+    "image": "Img/005.png",
+    "numbers": [ 2, 3, 1, 5 ]
+  },
+  {
+    "name": "006",
+    "attribute": "Light",
+    "image": "Img/006.png",
+    "numbers": [ 2, 1, 4, 4 ]
+  },
+  {
+    "name": "007",
+    "attribute": "Water",
+    "image": "Img/007.png",
+    "numbers": [ 1, 5, 4, 1 ]
+  },
+  {
+    "name": "008",
+    "attribute": "Wind",
+    "image": "Img/008.png",
+    "numbers": [ 3, 5, 2, 1 ]
+  },
+  {
+    "name": "009",
+    "attribute": "Earth",
+    "image": "Img/009.png",
+    "numbers": [ 2, 1, 6, 1 ]
+  },
+  {
+    "name": "010",
+    "attribute": "Holy",
+    "image": "Img/010.png",
+    "numbers": [ 4, 2, 4, 3 ]
+  },
+  {
+    "name": "011",
+    "attribute": "Fire",
+    "image": "Img/011.png",
+    "numbers": [ 2, 1, 2, 6 ]
+  },
+  {
+    "name": "012",
+    "attribute": "Darkness",
+    "image": "Img/012.png",
+    "numbers": [ 7, 1, 3, 1 ]
+  },
+  {
+    "name": "013",
+    "attribute": "Poison",
+    "image": "Img/013.png",
+    "numbers": [ 6, 2, 2, 3 ]
+  },
+  {
+    "name": "014",
+    "attribute": "Holy",
+    "image": "Img/014.png",
+    "numbers": [ 5, 3, 3, 4 ]
+  },
+  {
+    "name": "015",
+    "attribute": "Earth",
+    "image": "Img/015.png",
+    "numbers": [ 6, 1, 4, 3 ]
+  },
+  {
+    "name": "016",
+    "attribute": "Warrior",
+    "image": "Img/016.png",
+    "numbers": [ 3, 4, 5, 3 ]
+  },
+  {
+    "name": "017",
+    "attribute": "Warrior",
+    "image": "Img/017.png",
+    "numbers": [ 5, 3, 2, 5 ]
+  },
+  {
+    "name": "018",
+    "attribute": "Wind",
+    "image": "Img/018.png",
+    "numbers": [ 5, 1, 3, 5 ]
+  },
+  {
+    "name": "019",
+    "attribute": "Fire",
+    "image": "Img/019.png",
+    "numbers": [ 5, 2, 5, 2 ]
+  },
+  {
+    "name": "020",
+    "attribute": "Alien",
+    "image": "Img/020.png",
+    "numbers": [ 4, 4, 5, 2 ]
+  },
+  {
+    "name": "021",
+    "attribute": "Warrior",
+    "image": "Img/021.png",
+    "numbers": [ 3, 2, 1, 7 ]
+  },
+  {
+    "name": "022",
+    "attribute": "Sorceress",
+    "image": "Img/022.png",
+    "numbers": [ 5, 2, 5, 3 ]
+  },
+  {
+    "name": "023",
+    "attribute": "Warrior",
+    "image": "Img/023.png",
+    "numbers": [ 6, 6, 3, 2 ]
+  },
+  {
+    "name": "024",
+    "attribute": "Sorceress",
+    "image": "Img/024.png",
+    "numbers": [ 6, 3, 1, 6 ]
+  },
+  {
+    "name": "025",
+    "attribute": "Sorceress",
+    "image": "Img/025.png",
+    "numbers": [ 3, 5, 5, 5 ]
+  },
+  {
+    "name": "026",
+    "attribute": "Warrior",
+    "image": "Img/026.png",
+    "numbers": [ 7, 5, 1, 3 ]
+  },
+  {
+    "name": "027",
+    "attribute": "Warrior",
+    "image": "Img/027.png",
+    "numbers": [ 7, 1, 5, 3 ]
+  },
+  {
+    "name": "028",
+    "attribute": "Sorceress",
+    "image": "Img/028.png",
+    "numbers": [ 5, 6, 3, 3 ]
+  },
+  {
+    "name": "029",
+    "attribute": "Warrior",
+    "image": "Img/029.png",
+    "numbers": [ 5, 6, 2, 4 ]
+  },
+  {
+    "name": "030",
+    "attribute": "Warrior",
+    "image": "Img/030.png",
+    "numbers": [ 4, 4, 7, 2 ]
+  },
+  {
+    "name": "031",
+    "attribute": "Warrior",
+    "image": "Img/031.png",
+    "numbers": [ 6, 2, 6, 3 ]
+  },
+  {
+    "name": "032",
+    "attribute": "Soldier",
+    "image": "Img/032.png",
+    "numbers": [ 3, 6, 4, 4 ]
+  },
+  {
+    "name": "033",
+    "attribute": "Warrior",
+    "image": "Img/033.png",
+    "numbers": [ 7, 2, 3, 5 ]
+  },
+  {
+    "name": "034",
+    "attribute": "Wind",
+    "image": "Img/034.png",
+    "numbers": [ 2, 3, 6, 7 ]
+  },
+  {
+    "name": "035",
+    "attribute": "Machine",
+    "image": "Img/035.png",
+    "numbers": [ 6, 5, 4, 5 ]
+  },
+  {
+    "name": "036",
+    "attribute": "Insect",
+    "image": "Img/036.png",
+    "numbers": [ 4, 6, 2, 7 ]
+  },
+  {
+    "name": "037",
+    "attribute": "Zombie",
+    "image": "Img/037.png",
+    "numbers": [ 2, 7, 6, 3 ]
+  },
+  {
+    "name": "038",
+    "attribute": "Beast",
+    "image": "Img/038.png",
+    "numbers": [ 1, 6, 4, 7 ]
+  },
+  {
+    "name": "039",
+    "attribute": "Undead",
+    "image": "Img/039.png",
+    "numbers": [ 7, 3, 1, 6 ]
+  },
+  {
+    "name": "040",
+    "attribute": "Crystal",
+    "image": "Img/040.png",
+    "numbers": [ 7, 4, 4, 4 ]
+  },
+  {
+    "name": "041",
+    "attribute": "Dragon",
+    "image": "Img/041.png",
+    "numbers": [ 3, 7, 3, 6 ]
+  },
+  {
+    "name": "042",
+    "attribute": "Weapon",
+    "image": "Img/042.png",
+    "numbers": [ 6, 2, 7, 3 ]
+  },
+  {
+    "name": "043",
+    "attribute": "Weapon",
+    "image": "Img/043.png",
+    "numbers": [ 4, 5, 5, 6 ]
+  },
+  {
+    "name": "044",
+    "attribute": "Beast",
+    "image": "Img/044.png",
+    "numbers": [ 7, 5, 4, 3 ]
+  },
+  {
+    "name": "045",
+    "attribute": "Plant",
+    "image": "Img/045.png",
+    "numbers": [ 6, 5, 6, 5 ]
+  },
+  {
+    "name": "046",
+    "attribute": "Plant",
+    "image": "Img/046.png",
+    "numbers": [ 3, 6, 5, 7 ]
+  },
+  {
+    "name": "047",
+    "attribute": "Beast",
+    "image": "Img/047.png",
+    "numbers": [ 7, 6, 5, 3 ]
+  },
+  {
+    "name": "048",
+    "attribute": "Giant",
+    "image": "Img/048.png",
+    "numbers": [ 3, 10, 2, 1 ]
+  },
+  {
+    "name": "049",
+    "attribute": "Turtle",
+    "image": "Img/049.png",
+    "numbers": [ 6, 2, 6, 7 ]
+  },
+  {
+    "name": "050",
+    "attribute": "Snake",
+    "image": "Img/050.png",
+    "numbers": [ 5, 5, 7, 4 ]
+  },
+  {
+    "name": "051",
+    "attribute": "Machine",
+    "image": "Img/051.png",
+    "numbers": [ 7, 7, 4, 2 ]
+  },
+  {
+    "name": "052",
+    "attribute": "Electric",
+    "image": "Img/052.png",
+    "numbers": [ 7, 2, 7, 4 ]
+  },
+  {
+    "name": "053",
+    "attribute": "Ghost",
+    "image": "Img/053.png",
+    "numbers": [ 5, 3, 7, 6 ]
+  },
+  {
+    "name": "054",
+    "attribute": "Fire",
+    "image": "Img/054.png",
+    "numbers": [ 4, 6, 7, 4 ]
+  },
+  {
+    "name": "055",
+    "attribute": "Dragon",
+    "image": "Img/055.png",
+    "numbers": [ 6, 6, 2, 7 ]
+  },
+  {
+    "name": "056",
+    "attribute": "Demon",
+    "image": "Img/056.png",
+    "numbers": [ 2, 8, 8, 4 ]
+  },
+  {
+    "name": "057",
+    "attribute": "Ghost",
+    "image": "Img/057.png",
+    "numbers": [ 7, 8, 3, 4 ]
+  },
+  {
+    "name": "058",
+    "attribute": "Insect",
+    "image": "Img/058.png",
+    "numbers": [ 4, 8, 7, 3 ]
+  },
+  {
+    "name": "059",
+    "attribute": "Beast",
+    "image": "Img/059.png",
+    "numbers": [ 7, 2, 8, 5 ]
+  },
+  {
+    "name": "060",
+    "attribute": "Bird",
+    "image": "Img/060.png",
+    "numbers": [ 1, 8, 8, 3 ]
+  },
+  {
+    "name": "061",
+    "attribute": "Beast",
+    "image": "Img/061.png",
+    "numbers": [ 8, 2, 8, 2 ]
+  },
+  {
+    "name": "062",
+    "attribute": "Demon",
+    "image": "Img/062.png",
+    "numbers": [ 6, 8, 4, 5 ]
+  },
+  {
+    "name": "063",
+    "attribute": "Fish",
+    "image": "Img/063.png",
+    "numbers": [ 4, 8, 5, 6 ]
+  },
+  {
+    "name": "064",
+    "attribute": "Undead",
+    "image": "Img/064.png",
+    "numbers": [ 1, 8, 4, 8 ]
+  },
+  {
+    "name": "065",
+    "attribute": "Machine",
+    "image": "Img/065.png",
+    "numbers": [ 6, 5, 8, 4 ]
+  },
+  {
+    "name": "066",
+    "attribute": "Ice",
+    "image": "Img/066.png",
+    "numbers": [ 7, 5, 8, 1 ]
+  },
+  {
+    "name": "067",
+    "attribute": "Dragon",
+    "image": "Img/067.png",
+    "numbers": [ 8, 4, 4, 8 ]
+  },
+  {
+    "name": "068",
+    "attribute": "Dragon",
+    "image": "Img/068.png",
+    "numbers": [ 8, 8, 4, 4 ]
+  },
+  {
+    "name": "069",
+    "attribute": "Demon",
+    "image": "Img/069.png",
+    "numbers": [ 8, 5, 2, 8 ]
+  },
+  {
+    "name": "070",
+    "attribute": "Water",
+    "image": "Img/070.png",
+    "numbers": [ 5, 6, 6, 8 ]
+  },
+  {
+    "name": "071",
+    "attribute": "Beast",
+    "image": "Img/071.png",
+    "numbers": [ 8, 6, 7, 3 ]
+  },
+  {
+    "name": "072",
+    "attribute": "Plant",
+    "image": "Img/072.png",
+    "numbers": [ 8, 3, 5, 8 ]
+  },
+  {
+    "name": "073",
+    "attribute": "Dinosaur",
+    "image": "Img/073.png",
+    "numbers": [ 8, 8, 5, 4 ]
+  },
+  {
+    "name": "074",
+    "attribute": "Demon",
+    "image": "Img/074.png",
+    "numbers": [ 5, 7, 8, 5 ]
+  },
+  {
+    "name": "075",
+    "attribute": "Machine",
+    "image": "Img/075.png",
+    "numbers": [ 6, 8, 4, 7 ]
+  },
+  {
+    "name": "076",
+    "attribute": "Undead",
+    "image": "Img/076.png",
+    "numbers": [ 1, 8, 7, 7 ]
+  },
+  {
+    "name": "077",
+    "attribute": "Beast",
+    "image": "Img/077.png",
+    "numbers": [ 7, 7, 2, 8 ]
+  },
+  {
+    "name": "078",
+    "attribute": "Soldier",
+    "image": "Img/078.png",
+    "numbers": [ 4, 4, 8, 9 ]
+  },
+  {
+    "name": "079",
+    "attribute": "Electric",
+    "image": "Img/079.png",
+    "numbers": [ 9, 6, 7, 3 ]
+  },
+  {
+    "name": "080",
+    "attribute": "Demon",
+    "image": "Img/080.png",
+    "numbers": [ 3, 7, 9, 6 ]
+  },
+  {
+    "name": "081",
+    "attribute": "Machine",
+    "image": "Img/081.png",
+    "numbers": [ 9, 3, 9, 2 ]
+  },
+  {
+    "name": "082",
+    "attribute": "Giant",
+    "image": "Img/082.png",
+    "numbers": [ 9, 4, 8, 4 ]
+  },
+  {
+    "name": "083",
+    "attribute": "Beast",
+    "image": "Img/083.png",
+    "numbers": [ 2, 9, 9, 4 ]
+  },
+  {
+    "name": "084",
+    "attribute": "Sorceress",
+    "image": "Img/084.png",
+    "numbers": [ 6, 7, 4, 9 ]
+  },
+  {
+    "name": "085",
+    "attribute": "Beast",
+    "image": "Img/085.png",
+    "numbers": [ 9, 6, 2, 8 ]
+  },
+  {
+    "name": "086",
+    "attribute": "Wind",
+    "image": "Img/086.png",
+    "numbers": [ 8, 9, 6, 2 ]
+  },
+  {
+    "name": "087",
+    "attribute": "Thunder",
+    "image": "Img/087.png",
+    "numbers": [ 5, 1, 9, 9 ]
+  },
+  {
+    "name": "088",
+    "attribute": "Sorceress",
+    "image": "Img/088.png",
+    "numbers": [ 9, 5, 2, 9 ]
+  },
+  {
+    "name": "089",
+    "attribute": "Warrior",
+    "image": "Img/089.png",
+    "numbers": [ 8, 4, 10, 4 ]
+  },
+  {
+    "name": "090",
+    "attribute": "Sorceress",
+    "image": "Img/090.png",
+    "numbers": [ 5, 10, 8, 3 ]
+  },
+  {
+    "name": "091",
+    "attribute": "Warrior",
+    "image": "Img/091.png",
+    "numbers": [ 7, 10, 1, 7 ]
+  },
+  {
+    "name": "092",
+    "attribute": "Warrior",
+    "image": "Img/092.png",
+    "numbers": [ 8, 10, 3, 5 ]
+  },
+  {
+    "name": "093",
+    "attribute": "Sorceress",
+    "image": "Img/093.png",
+    "numbers": [ 10, 1, 7, 7 ]
+  },
+  {
+    "name": "094",
+    "attribute": "Sorceress",
+    "image": "Img/094.png",
+    "numbers": [ 7, 4, 6, 10 ]
+  },
+  {
+    "name": "095",
+    "attribute": "Warrior",
+    "image": "Img/095.png",
+    "numbers": [ 9, 10, 4, 2 ]
+  },
+  {
+    "name": "096",
+    "attribute": "Warrior",
+    "image": "Img/096.png",
+    "numbers": [ 7, 2, 7, 10 ]
+  },
+  {
+    "name": "097",
+    "attribute": "Sorceress",
+    "image": "Img/097.png",
+    "numbers": [ 10, 8, 2, 6 ]
+  },
+  {
+    "name": "098",
+    "attribute": "Sorceress",
+    "image": "Img/098.png",
+    "numbers": [ 3, 1, 10, 10 ]
+  },
+  {
+    "name": "099",
+    "attribute": "Warrior",
+    "image": "Img/099.png",
+    "numbers": [ 4, 4, 9, 10 ]
+  },
+  {
+    "name": "100",
+    "attribute": "Sorceress",
+    "image": "Img/100.png",
+    "numbers": [ 10, 7, 2, 8 ]
+  },
+  {
+    "name": "101",
+    "attribute": "Sorceress",
+    "image": "Img/101.png",
+    "numbers": [ 6, 7, 6, 10 ]
+  },
+  {
+    "name": "102",
+    "attribute": "Warrior",
+    "image": "Img/102.png",
+    "numbers": [ 5, 10, 3, 9 ]
+  },
+  {
+    "name": "103",
+    "attribute": "Warrior",
+    "image": "Img/103.png",
+    "numbers": [ 10, 8, 6, 4 ]
+  },
+  {
+    "name": "104",
+    "attribute": "Sorceress",
+    "image": "Img/104.png",
+    "numbers": [ 9, 6, 10, 2 ]
+  },
+  {
+    "name": "105",
+    "attribute": "Sorceress",
+    "image": "Img/105.png",
+    "numbers": [ 2, 6, 9, 10 ]
+  },
+  {
+    "name": "106",
+    "attribute": "Warrior",
+    "image": "Img/106.png",
+    "numbers": [ 8, 5, 10, 6 ]
+  },
+  {
+    "name": "107",
+    "attribute": "Sorceress",
+    "image": "Img/107.png",
+    "numbers": [ 4, 10, 2, 10 ]
+  },
+  {
+    "name": "108",
+    "attribute": "Sorceress",
+    "image": "Img/108.png",
+    "numbers": [ 10, 10, 3, 3 ]
+  },
+  {
+    "name": "109",
+    "attribute": "Warrior",
+    "image": "Img/109.png",
+    "numbers": [ 6, 9, 10, 4 ]
+  },
+  {
+    "name": "110",
+    "attribute": "Warrior",
+    "image": "Img/110.png",
+    "numbers": [ 10, 4, 6, 9 ]
+  }
+]

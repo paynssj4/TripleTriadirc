@@ -1,0 +1,25 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.tripletriad'
+    compileSdk 34
+    defaultConfig {
+        applicationId "com.tripletriad"
+        minSdk 24
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+    androidResources { noCompress 'wav', 'mp3' }
+
+    // Nom de l'APK = nom du projet : app/build/outputs/apk/debug/TripleTriad.apk (au lieu de app-debug.apk)
+    applicationVariants.all { variant ->
+        variant.outputs.all {
+            outputFileName = "${rootProject.name}.apk"
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
